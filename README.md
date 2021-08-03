@@ -1,5 +1,6 @@
 
-**Brutus **
+**Brutus**
+
 _(Et tu, Brute?)_
 
 Brutus is a experiment in governance. 
