@@ -29,7 +29,7 @@ A percentile is defined: the council has  x amount of people, the successors can
 
 The ladder has 3 native positions. Council member, the highest tier, Successor, the middle tier,and Citizens, the lowest tier. Members of a DAO ocupy their positions in the ladder according to their ranking.
 
-Visually, it would be something like this: 
+Visually, it would be something like this:
 ---------------------------------------------------------------------------------------------------------------
 Council
 councilmember1.near
@@ -58,7 +58,7 @@ citizensmember10.near
 citizensmember11.near
 citizensmember12.near
 citizensmember13.near
----------------------------------------------------------------------------------------------------------------
+
 
 **Managing Time**
 
