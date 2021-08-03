@@ -85,6 +85,7 @@ citizensmember12.near
 citizensmember13.near
 
 
+
 **Managing Time**
 
 The   management   of   time   is   essential   to   the   success   of  Brutus.   The   minimum   time   frame
